@@ -4,7 +4,7 @@
 ## Introduction  
 Welcome to our delectable world of culinary delights! Whether you're a seasoned chef or a cooking novice, our food recipes website is here to inspire your taste buds and guide you through a mouthwatering journey of flavors. 
 
-## Getting Started 
+
 We deeply value your enthusiasm for enhancing this project!  We warmly welcome your valuable contributions and invite you to participate in elevating it to new heights.  
 
 There are some steps that you need to follow before making any contribution in this project, the following steps are important to get start. 
